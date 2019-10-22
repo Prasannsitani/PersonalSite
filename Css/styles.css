@@ -1,0 +1,91 @@
+body{
+  /* background-color: white; */
+  /* background-color: #b2fcff; */
+  margin:0;
+  text-align: center;
+  /* background: #1e5799; */
+  /* background: rgb(255,214,94); */
+  background: linear-gradient(to bottom, rgba(30,87,153,0) 0%,rgba(30,87,153,0.8) 15%,rgba(30,87,153,1) 19%,rgba(30,87,153,1) 20%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 80%,rgba(30,87,153,1) 81%,rgba(30,87,153,0.8) 85%,rgba(30,87,153,0) 100%);
+  /* font-family: Papyrus,fantasy; */
+  /* font-family: "Brush Script MT",cursive; */
+}
+
+h1{
+  font-size: 90px;
+  margin: 50px auto -30px auto;
+  color: #1e5799;
+  /* color: rgb(255,214,94); */
+  /* margin-top: 0; */
+  /* padding: 0; */
+  font-family: 'Sacramento', cursive;
+  /* font-family:brandon-grotesque, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
+}
+h2{
+  font-size: 2.5rem;
+  font-weight: normal;
+  /* line-height: 2; */
+  color: #1e5799;
+  text-decoration: underline;
+}
+h3{
+  text-decoration: underline;
+}
+h3,a{
+  color: rgb(73,155,234);
+}
+.top-container{
+  /* background: rgb(239,197,202); */
+  /* background: rgb(255,214,94); */
+  /* background-color: #b2fcff; */
+  /* border:10px solid red; */
+  color: black;
+  height: auto;
+  width: auto;
+}
+.middle-container{
+  /* background-color: grey;
+  border:20px solid;
+  height: 200px;
+  width: 200px;
+  margin-left:260px; */
+  /* padding: 20px; */
+}
+.bottom-container{
+  /* background-color: pink;
+  border: 10px solid black;
+  height: 200px;
+  width: 200px;
+  margin-left: 500px; */
+}
+.first-i{
+  position: relative;
+  left: 20%;
+  padding-top: 30px;
+}
+.second-i{
+  position: absolute;
+}
+.skill-row{
+  width:50%;
+  font-size: 1.25em;
+  font-family: cursive;
+  margin: 100px auto;
+  text-align: left;
+  /* line-height: 2; */
+}
+.skill-1{
+  width: 35%;
+  float: left;
+  margin-right: 20%;
+}
+.skill-2{
+  width: 35%;
+  float: right;
+  margin-left: 20%;
+}
+/* .desc-1{
+  clear: left;
+}
+.desc-2{
+  clear:right;
+} */
